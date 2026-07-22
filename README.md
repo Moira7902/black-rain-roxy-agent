@@ -33,6 +33,7 @@
 ## 文件说明
 
 - `app.py`：Streamlit 前端和会话流程
+- `agent_eval_test.xlsx`：30条基础评估测试用例
 - `npc_agent_core.py`：DeepSeek 调用、Prompt、结构化输出校验
 - `game_logic.py`：警惕、任务、物品、结局等确定性规则
 - `memory_manager.py`：短期完整上下文与长期记忆
