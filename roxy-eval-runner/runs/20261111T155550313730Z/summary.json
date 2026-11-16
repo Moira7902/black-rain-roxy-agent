@@ -1,0 +1,38 @@
+{
+  "dataset_version": "0.3",
+  "baseline_commit": "a3627b7b80939c60725d2254544e4677d904aa6b",
+  "product_commit": null,
+  "baseline_files_match": true,
+  "files_different_from_baseline": [],
+  "product_file_sha256": {
+    "app.py": "2177e820b4a7559e6544d4177fcb2bef482d78299f5f09698c4719d0116a5e24",
+    "npc_agent_core.py": "9f39b22f75793391ef5d689a3eb90aa2930b69658e2c333b82ed13fcd3ef50f5",
+    "game_logic.py": "7eddc366a297049f05d6f207b37bdf458eb7078774787aa8c83ab7f2cac1bd8a",
+    "memory_manager.py": "5d6ca8a1bb501a9acf00ce99763e5ec08547ee997b4b4f81b550ffba288d5ede",
+    "data/world_lore.json": "01b5969a56cb6c8303f0dd737d3ee4ff902eec3f79f977b34bc2f267aae80a91",
+    "data/roxy_profile.json": "4ba7e737a5e794de71e24543433498b6fdaad85e248ddaeb5531013311e7b5c8"
+  },
+  "suite": "pilot",
+  "selected_cases": [
+    "RXY-D002",
+    "RXY-D013",
+    "RXY-D017",
+    "RXY-D023",
+    "RXY-D026",
+    "RXY-D028",
+    "RXY-D032",
+    "RXY-D034",
+    "RXY-D036",
+    "RXY-D041",
+    "RXY-Q002",
+    "RXY-Q003"
+  ],
+  "model": "deepseek-chat",
+  "scope": "rule_functions_and_app_turn_logic",
+  "browser_tested": false,
+  "judge_called": false,
+  "statuses": {
+    "ready_for_review": 11,
+    "check_failed": 1
+  }
+}
