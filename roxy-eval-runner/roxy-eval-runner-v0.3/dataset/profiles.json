@@ -1,0 +1,1010 @@
+{
+  "initial": {
+    "turn_count": 0,
+    "suspicion": 55,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "high_alert": {
+    "turn_count": 0,
+    "suspicion": 85,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "最后警告"
+  },
+  "safe_request": {
+    "turn_count": 0,
+    "suspicion": 20,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": true,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "暂时可信"
+  },
+  "boundary_29": {
+    "turn_count": 0,
+    "suspicion": 29,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": true,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": true,
+    "suspicion_stage": "暂时可信"
+  },
+  "boundary_30": {
+    "turn_count": 0,
+    "suspicion": 30,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": true,
+    "suspicion_stage": "保持戒备"
+  },
+  "missing_identity": {
+    "turn_count": 0,
+    "suspicion": 20,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": false,
+      "explained_arrival": true,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": true,
+    "suspicion_stage": "暂时可信"
+  },
+  "pistol_surrendered": {
+    "turn_count": 1,
+    "suspicion": 45,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": false,
+        "revealed": true,
+        "surrendered": true,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我把浸水的手枪交给你保管。",
+        "npc": "放下。别再碰它。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#收起手枪#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "candy_consumed": {
+    "turn_count": 1,
+    "suspicion": 55,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": false,
+        "consumed": true,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我把融化的柠檬糖吃掉了。",
+        "npc": "糖纸别扔地上。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "name_recent": {
+    "turn_count": 1,
+    "suspicion": 55,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": true,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我叫阿宁，刚被城里放逐出来。",
+        "npc": "阿宁。证件拿出来。",
+        "emotion": "talk",
+        "intent": "ask",
+        "action_tag": "#伸出手#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "pistol_recent": {
+    "turn_count": 1,
+    "suspicion": 55,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": true,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我有一把浸水的旧手枪。",
+        "npc": "枪机已经泡坏了。别在这儿试。",
+        "emotion": "talk",
+        "intent": "warn",
+        "action_tag": "#看了一眼手枪#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "name_long_term": {
+    "turn_count": 14,
+    "suspicion": 55,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": true,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 3,
+        "player": "我继续安静地等雨停，数到第3次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 4,
+        "player": "我继续安静地等雨停，数到第4次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 5,
+        "player": "我继续安静地等雨停，数到第5次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 6,
+        "player": "我继续安静地等雨停，数到第6次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 7,
+        "player": "我继续安静地等雨停，数到第7次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 8,
+        "player": "我继续安静地等雨停，数到第8次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 9,
+        "player": "我继续安静地等雨停，数到第9次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 10,
+        "player": "我继续安静地等雨停，数到第10次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 11,
+        "player": "我继续安静地等雨停，数到第11次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 12,
+        "player": "我继续安静地等雨停，数到第12次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 13,
+        "player": "我继续安静地等雨停，数到第13次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      },
+      {
+        "turn": 14,
+        "player": "我继续安静地等雨停，数到第14次滴水。",
+        "npc": "别堵着门。",
+        "emotion": "calm",
+        "intent": "answer",
+        "action_tag": "#看向门口#"
+      }
+    ],
+    "long_term_memories": [
+      {
+        "type": "player_identity",
+        "content": "玩家自称阿宁，是被城市放逐的人。",
+        "importance": 3,
+        "source_turn": 1
+      }
+    ],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  },
+  "ending_good": {
+    "turn_count": 0,
+    "suspicion": 20,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": true,
+      "stay_permitted": true
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": "rainy_night_rest",
+    "ending_reason": "已完成测试留宿条件。",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": true,
+    "suspicion_stage": "暂时可信"
+  },
+  "ending_bad": {
+    "turn_count": 0,
+    "suspicion": 100,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": "shut_out",
+    "ending_reason": "测试前已触发驱逐。",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "驱逐"
+  },
+  "near_upper": {
+    "turn_count": 0,
+    "suspicion": 99,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "最后警告"
+  },
+  "near_lower": {
+    "turn_count": 0,
+    "suspicion": 1,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "暂时可信"
+  },
+  "roxy_trust_context": {
+    "turn_count": 2,
+    "suspicion": 20,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": true,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我是刚被城里放逐的人。这是我的证件。",
+        "npc": "证件对得上。先把湿衣服拧干。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      },
+      {
+        "turn": 2,
+        "player": "我只想避会儿雨。我坐门边，不碰你的东西。",
+        "npc": "你在门边老实待了这么久。我信你不会在这儿惹事。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "暂时可信"
+  },
+  "roxy_trust_food_context": {
+    "turn_count": 3,
+    "suspicion": 20,
+    "quest_flags": {
+      "asked_about_tavern": true,
+      "identity_verified": true,
+      "explained_arrival": true,
+      "considered_safe": true,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "我是刚被城里放逐的人。这是我的证件。",
+        "npc": "证件对得上。先把湿衣服拧干。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      },
+      {
+        "turn": 2,
+        "player": "我只想避会儿雨。我坐门边，不碰你的东西。",
+        "npc": "你在门边老实待了这么久。我信你不会在这儿惹事。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      },
+      {
+        "turn": 3,
+        "player": "桌上那是面包？",
+        "npc": "是。今天还有一块可以分的。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "暂时可信"
+  },
+  "roxy_disoriented_context": {
+    "turn_count": 2,
+    "suspicion": 85,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": false,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": false
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "雨里有人叫我，说墙里有路。",
+        "npc": "先离门远点。你在外面淋了多久？",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      },
+      {
+        "turn": 2,
+        "player": "门不是门。你们全在墙里换脸。",
+        "npc": "别再往里面走。听得懂我的话吗？",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#看着你#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "最后警告"
+  },
+  "identity_already_verified": {
+    "turn_count": 1,
+    "suspicion": 47,
+    "quest_flags": {
+      "asked_about_tavern": false,
+      "identity_verified": true,
+      "explained_arrival": false,
+      "considered_safe": false,
+      "stay_permitted": false
+    },
+    "inventory": {
+      "city_id": {
+        "name": "旧城市居民证",
+        "description": "边角被雨水泡软，姓名和照片仍可辨认，背面盖着红色的居民资格注销印章。",
+        "owned": true,
+        "shown": true
+      },
+      "lemon_candy": {
+        "name": "融化的柠檬糖",
+        "description": "糖纸黏成一团，仍留着一点酸甜味。",
+        "owned": true,
+        "consumed": false,
+        "given": false
+      },
+      "wet_pistol": {
+        "name": "浸水的旧式手枪",
+        "description": "弹匣里还有三发子弹，但击发结构已经进水，无法正常开火。",
+        "owned": true,
+        "revealed": false,
+        "surrendered": false,
+        "can_fire": false
+      }
+    },
+    "recent_history": [
+      {
+        "turn": 1,
+        "player": "这是我的城市居民证。你核对一下。",
+        "npc": "看过了。证件对得上。",
+        "emotion": "talk",
+        "intent": "answer",
+        "action_tag": "#扫了一眼证件#"
+      }
+    ],
+    "long_term_memories": [],
+    "seen_inputs": [
+      "这是我的城市居民证。你核对一下。"
+    ],
+    "ending": null,
+    "ending_reason": "",
+    "current_scene": "abandoned_tavern",
+    "stay_requested": false,
+    "suspicion_stage": "保持戒备"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "dataset_version": "0.3",
+  "structure": "passed",
+  "schema_used_keywords": "passed",
+  "counts": {
+    "total": 68,
+    "eligible": 68,
+    "blocked": 0
+  },
+  "requirements_represented": 15,
+  "model_evaluation": "not_run",
+  "website_evaluation": "not_run",
+  "rule_expectation_sanity_checks": [
+    {
+      "case_id": "RXY-R001",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R002",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R003",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R004",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R005",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R006",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R007",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R008",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R009",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R010",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R011",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R012",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R013",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R014",
+      "result": "matched_pinned_implementation"
+    },
+    {
+      "case_id": "RXY-R015",
+      "result": "mismatch",
+      "failed_checks": [
+        {
+          "phase": "final",
+          "path": "suspicion",
+          "op": "eq",
+          "value": 47,
+          "actual": 39
+        }
+      ]
+    }
+  ]
+}
